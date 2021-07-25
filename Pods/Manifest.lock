@@ -1,0 +1,47 @@
+PODS:
+  - Google-Mobile-Ads-SDK (7.31.0)
+  - MJExtension (3.0.15)
+  - mob_sharesdk/ShareSDK (4.1.2):
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/QQ (4.1.2):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - mob_sharesdk/ShareSDKPlatforms/WeChat (4.1.2):
+    - mob_sharesdk/ShareSDK
+    - MOBFoundation
+  - MOBFoundation (3.1.6)
+  - ReactiveObjC (3.1.0)
+  - SDAutoLayout (2.2.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Google-Mobile-Ads-SDK
+  - MJExtension
+  - mob_sharesdk/ShareSDKPlatforms/QQ
+  - mob_sharesdk/ShareSDKPlatforms/WeChat
+  - ReactiveObjC (~> 3.1.0)
+  - SDAutoLayout
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Google-Mobile-Ads-SDK
+    - MJExtension
+    - mob_sharesdk
+    - MOBFoundation
+    - ReactiveObjC
+    - SDAutoLayout
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Google-Mobile-Ads-SDK: 6e529e748b45507a2ca904e0b5a52669ba3920c4
+  MJExtension: 3f039575db1b135a20699ad298713b26acec1528
+  mob_sharesdk: e859de6ace7542f3395ce055682f7cd40efdfaa1
+  MOBFoundation: a87c5f11fb87f873337189c3ec0add4d3ec6221a
+  ReactiveObjC: 2a38ea15335de4119d8b17caf1db1484f61db902
+  SDAutoLayout: c5509e77ae75735d9a39f7bc83dba6d3f75d49d8
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: e5089b7165bd96f2af3538adb04a30c3e34f5d1f
+
+COCOAPODS: 1.10.1
