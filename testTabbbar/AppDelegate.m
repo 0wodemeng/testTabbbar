@@ -28,6 +28,7 @@
     
     self.window.backgroundColor=[UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    ///git one
     return YES;
 }
 
