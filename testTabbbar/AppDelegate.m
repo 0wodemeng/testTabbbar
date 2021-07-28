@@ -29,6 +29,7 @@
     self.window.backgroundColor=[UIColor whiteColor];
     [self.window makeKeyAndVisible];
     ///git one
+    ///git testmerged
     return YES;
 }
 
