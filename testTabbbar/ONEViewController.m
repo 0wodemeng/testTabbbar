@@ -75,7 +75,7 @@
     [record1 setBackgroundColor:[UIColor redColor]];
     [record1 setTitle:@"前" forState:UIControlStateNormal];
     [record1 setTag:1];
-    [self.view addSubview:record1];
+//    [self.view addSubview:record1];
     
     UIButton *record=[[UIButton alloc] initWithFrame:CGRectMake(100,100 , 50, 50)];
     [record addTarget:self action:@selector(cordButtonClicked:) forControlEvents:UIControlEventTouchUpInside];
